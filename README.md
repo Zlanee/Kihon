@@ -21,6 +21,7 @@ An open sourced 60% top mount keyboard
 * I am not responsible for how you use these files, use at your own discretion
 * Plate is only compatible with pcb mount stabilizers
 * Fr4 plate files soon
+* Iso support soon
 # Fusion pictures:
 ![image](https://user-images.githubusercontent.com/60489513/129010532-dd6760d4-6d92-42d5-af8d-ec173be18bfc.png)
 ![image](https://user-images.githubusercontent.com/60489513/129011144-18f9e3d5-bd8b-4263-8cc5-d3940f81648a.png)
