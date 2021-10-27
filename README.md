@@ -18,6 +18,7 @@ An open sourced 60% top mount keyboard
 ![image](https://user-images.githubusercontent.com/60489513/129011858-f10090c8-56d1-4bcb-8599-37b06ae82000.png)
 ![image](https://user-images.githubusercontent.com/60489513/129012087-337c194e-f302-43d3-ab34-dc8408f0433c.png)
 # Notes
+* Feel free to use these files however you want
 * I am not responsible for how you use these files, use at your own discretion
 * File could be open and modified using Fusion 360 or any other CAD program
 * Plate is only compatible with pcb mount stabilizers
