@@ -14,7 +14,7 @@ An open sourced 60% top mount keyboard
   * No weight: ~ 1080g
   * With Weight: ~ 1300g
 * Screws used:
-  * 8x M2.5 4mm can be found here: https://www.mcmaster.com/screws/system-of-measurement~metric/thread-size~m2-5/
+  * 16x M2.5 4mm can be found here: https://www.mcmaster.com/screws/system-of-measurement~metric/thread-size~m2-5/
 # Layout
 * There will be 2 plate version Tsangan only and universal:
 ![image](https://user-images.githubusercontent.com/60489513/129011858-f10090c8-56d1-4bcb-8599-37b06ae82000.png)
