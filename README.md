@@ -14,7 +14,7 @@ An open sourced 60% top mount keyboard
   * No weight: ~ 1080g
   * With Weight: ~ 1300g
 * Screws used:
-  * 16x M2.5 4mm can be found here: https://www.mcmaster.com/screws/system-of-measurement~metric/thread-size~m2-5/
+  * 18x M2.5 4mm can be found here: https://www.mcmaster.com/screws/system-of-measurement~metric/thread-size~m2-5/
 # Layout
 * There will be 2 plate version Tsangan only and universal:
 ![image](https://user-images.githubusercontent.com/60489513/129011858-f10090c8-56d1-4bcb-8599-37b06ae82000.png)
@@ -36,6 +36,16 @@ An open sourced 60% top mount keyboard
 ![image](https://user-images.githubusercontent.com/60489513/129010759-8b7499cd-8fdc-48d0-80bc-88adc1ebb53b.png)
 ![image](https://user-images.githubusercontent.com/60489513/129010807-a6660c1a-b712-4015-aa76-3e75a76e81f8.png)
 # Prototype pictures:
-Coming soon
+## Special thanks to KKatano for making the prototype and video review:
+![PXL_20220312_091836340 (2)](https://user-images.githubusercontent.com/60489513/158022115-2994a1ec-20f0-4232-87f8-1f68a5818fc2.jpg)
+![image](https://user-images.githubusercontent.com/60489513/158022138-977f5eff-4642-407f-a3bf-206511c052b4.png)
+![image](https://user-images.githubusercontent.com/60489513/158022145-07512c11-f634-4319-b297-1005cd9abd4c.png)
+![image](https://user-images.githubusercontent.com/60489513/158022151-16288ddc-31ca-4b66-919e-bf9c586eda2c.png)
+![PXL_20220312_072051050](https://user-images.githubusercontent.com/60489513/158022154-a3af94a2-cff1-49e3-99ab-2f81541207bb.jpg)
+![PXL_20220312_072218602 MP](https://user-images.githubusercontent.com/60489513/158022159-b8a1c5bb-2358-455c-8ea2-a10438669ca0.jpg)
+![PXL_20220312_071404429](https://user-images.githubusercontent.com/60489513/158022174-1d1b6a13-0d35-4528-8461-51223dfdd7e5.jpg)
+![PXL_20220312_071440683](https://user-images.githubusercontent.com/60489513/158022178-f69d0970-964c-4d3e-9c83-b2c8256f3a51.jpg)
+![PXL_20220312_072550573 MP](https://user-images.githubusercontent.com/60489513/158022189-cf877fef-444b-4fbe-8a56-61cd19a69776.jpg)
+
 
  
