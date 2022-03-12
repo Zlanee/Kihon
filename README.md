@@ -37,7 +37,7 @@ An open sourced 60% top mount keyboard
 ![image](https://user-images.githubusercontent.com/60489513/129010807-a6660c1a-b712-4015-aa76-3e75a76e81f8.png)
 # Prototype pictures:
 ## Special thanks to KKatano for making the prototype and video review:
-Video: https://youtu.be/UUN7DlLNAuU
+## Video: https://youtu.be/UUN7DlLNAuU
 ![PXL_20220312_091836340 (2)](https://user-images.githubusercontent.com/60489513/158022115-2994a1ec-20f0-4232-87f8-1f68a5818fc2.jpg)
 ![image](https://user-images.githubusercontent.com/60489513/158022138-977f5eff-4642-407f-a3bf-206511c052b4.png)
 ![image](https://user-images.githubusercontent.com/60489513/158022145-07512c11-f634-4319-b297-1005cd9abd4c.png)
